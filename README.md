@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyle Kuminkoski</h1>
-<h3 align="center">Computer Enthusiast and Aspiring Security Professional</h3>
+<h3 align="center">Computer Enthusiast, Technical Operations Specialist, and Aspiring Security Professional</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kylekuminkoski&label=Profile%20views&color=0e75b6&style=flat" alt="kylekuminkoski" /> </p>
 
@@ -8,10 +8,6 @@
 - 🔭 I’m currently working on **Obtaining the OSCP**
 
 - 🌱 I’m currently learning **Web Security, Network Security, Pen Testing**
-
-- 🤝 I’m looking for help with **getting my first job!**
-
-- 📝 I regularly write blog posts on [hackersroadmap.com](hackersroadmap.com)
 
 - 📫 How to reach me **kyle.kumin@gmail.com**
 
